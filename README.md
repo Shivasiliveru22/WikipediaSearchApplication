@@ -6,4 +6,6 @@ Refer to the below image.
 
 
 
-![wikipedia-search-application-v1](https://github.com/Shivasiliveru22/WikipediaSearchApplication/assets/113243958/72e54c2a-e504-4c73-94d4-93bba470f83f)
+![wikipedia-search-application-v1](https://github.com/Shivasiliveru22/WikipediaSearchApplication/assets/113243958/52b8e299-fcc8-4ee9-ada7-f66def03e80a)
+
+
